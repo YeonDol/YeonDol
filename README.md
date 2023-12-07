@@ -12,6 +12,12 @@
 3. 커밋하기
 4. 푸시하기
 
+
+
+
+![프로필 이미지](다운도르.jpeg)
+
+
 <!--
 **YeonDol/YeonDol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
